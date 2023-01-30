@@ -5729,11 +5729,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Rohin\\source\\repos\\LearnWebAutomation\\LearnWebAutomation\\LearnWebAutomation.csproj",
+      "projectUniqueName": "C:\\Users\\Rohin\\OneDrive\\Desktop\\C-AutomationFramework\\C-AutomationFramework\\LearnWebAutomation\\LearnWebAutomation.csproj",
       "projectName": "LearnWebAutomation",
-      "projectPath": "C:\\Users\\Rohin\\source\\repos\\LearnWebAutomation\\LearnWebAutomation\\LearnWebAutomation.csproj",
+      "projectPath": "C:\\Users\\Rohin\\OneDrive\\Desktop\\C-AutomationFramework\\C-AutomationFramework\\LearnWebAutomation\\LearnWebAutomation.csproj",
       "packagesPath": "C:\\Users\\Rohin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Rohin\\source\\repos\\LearnWebAutomation\\LearnWebAutomation\\obj\\",
+      "outputPath": "C:\\Users\\Rohin\\OneDrive\\Desktop\\C-AutomationFramework\\C-AutomationFramework\\LearnWebAutomation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
